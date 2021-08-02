@@ -3,6 +3,9 @@ package com.example.July.demo.Api;
 public class bankAccount {
     private int AccountNumber;
     private String CustomerName;
+    private String Email;
+    private int Phone;
+    private double balance;
 
     bankAccount(){}
 
@@ -27,6 +30,27 @@ public class bankAccount {
         return CustomerName;
     }
 
+    public String getEmail() {
+        return Email;
+    }
 
+    public void setEmail(String email) {
+        Email = email;
+    }
 
+    public int getPhone() {
+        return Phone;
+    }
+
+    public void setPhone(int phone) {
+        Phone = phone;
+    }
+
+    public void setBalance(double balance) {
+        this.balance = balance;
+    }
+
+    public double getBalance() {
+        return balance;
+    }
 }
