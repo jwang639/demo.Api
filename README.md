@@ -24,3 +24,8 @@ such as update name and add account and delete account;
 1 Aug, 2021
 
 All the bank methoda are added and tested
+
+******************************************************
+3 Aug, 2021
+
+Using JPA, finished the CRUD methods by using default JPA methods, don't need DAO class anymore
