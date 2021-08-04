@@ -28,7 +28,7 @@ All the bank methods are added and tested
 ******************************************************
 3 Aug, 2021
 
-Using JPA defalut CRUD methods and don't need DAO class anymore
+Using JPA default CRUD methods and don't need DAO class anymore
 
 Tested by using h2.console database, will connect to AWS database later
 
