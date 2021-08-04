@@ -31,3 +31,5 @@ All the bank methoda are added and tested
 Using JPA defalut CRUD methods and don't need DAO class anymore
 
 Tested by using h2.console database, will connect to AWS database later
+
+DAO version is in seperated folder from JPA version;
